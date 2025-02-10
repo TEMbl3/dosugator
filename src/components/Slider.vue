@@ -38,7 +38,7 @@
 
 import { ref } from "vue";
 import Gallery from "../assets/Gallery.png";
-import Video from '../assets/Video.png'
+import Video from '../assets/video.png'
 
 // Массив фотографий
 const images = [Gallery, Video, Gallery, Video, Gallery];
