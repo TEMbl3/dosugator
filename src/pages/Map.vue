@@ -553,7 +553,7 @@ const clear = ref(() => {
               </p>
               <div class="flex mt-[7px] gap-[12px] max-[600px]:ml-[0px] ml-[16px] items-center">
                 <div class="flex items-center">
-                  <img class="mt-[-2px] max-[600px]:w-[12px]" src="../assets/svg/Star.svg" alt="" />
+                  <img class="mt-[-2px] max-[600px]:w-[12px]" src="../assets/svg/star.svg" alt="" />
                   <p class="max-[600px]:text-[9px]">4.9</p>
                 </div>
                 <div class="flex items-center gap-[4px]">
